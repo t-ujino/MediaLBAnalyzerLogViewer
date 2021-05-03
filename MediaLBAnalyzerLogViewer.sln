@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLBAnalyzerLogViewer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLBAnalyzerLogViewerLib", "MediaLBAnalyzerLogViewerLib\MediaLBAnalyzerLogViewerLib.csproj", "{1A96D565-7929-421E-ABAD-0CDA5D1851F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaLBAnalyzerLogViewerLibTests", "MediaLBAnalyzerLogViewerLibTests\MediaLBAnalyzerLogViewerLibTests.csproj", "{1C7B0D43-3226-4DF1-A54A-B5108A8757E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1A96D565-7929-421E-ABAD-0CDA5D1851F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A96D565-7929-421E-ABAD-0CDA5D1851F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A96D565-7929-421E-ABAD-0CDA5D1851F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7B0D43-3226-4DF1-A54A-B5108A8757E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7B0D43-3226-4DF1-A54A-B5108A8757E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7B0D43-3226-4DF1-A54A-B5108A8757E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7B0D43-3226-4DF1-A54A-B5108A8757E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
