@@ -1,0 +1,16 @@
+ChConfigs:
+- 
+   LogicalCh: 0x02
+   Depth: 24
+   Chs: 2
+   Fs: 48000
+- 
+   LogicalCh: 0x20
+   Depth: 24
+   Chs: 2
+   Fs: 96000
+- 
+   LogicalCh: 0x32
+   Depth: 16
+   Chs: 7
+   Fs: 48000

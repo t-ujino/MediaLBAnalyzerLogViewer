@@ -17,4 +17,13 @@
     <ProjectReference Include="..\MediaLBAnalyzerLogViewerLib\MediaLBAnalyzerLogViewerLib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="viewerconfig.yaml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="viewerconfig.yaml.sample">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
