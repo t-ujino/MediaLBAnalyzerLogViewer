@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediaLBAnalyzerLogViewerLib
 {
-    public class LogEntity
+    public record LogEntity
     {
         public int Pos { get; set; }
         public string EventType { get; set; }
